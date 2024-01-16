@@ -10,6 +10,7 @@
 <br>
 <br>
 🌐Socials
+<br>
 [![Linkedin](https://www.linkedin.com/in/palak-sharma-a0704b271/)
 <br>
 [![Github(https://github.com/codepalak)
